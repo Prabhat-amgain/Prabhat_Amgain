@@ -1,4 +1,6 @@
-<h2 align="left">A Passionate Competitive Programmer and AI enthusiast from Nepal</h2>
+<h2 align="left">💻 Hi there! I’m a competitive programming enthusiast and AI explorer from Nepal, always curious and excited about solving challenges with code.
+
+</h2>
 
 ###
 
