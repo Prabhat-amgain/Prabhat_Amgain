@@ -1,6 +1,6 @@
 <h2 align="left">💻 Hi! I’m a competitive programming enthusiast and AI explorer from Nepal, always curious and excited about solving challenges with code.
 
-</h2>
+</h2> 
 
 ###
 
